@@ -306,4 +306,90 @@
 
 - **Riscos são circunstâncias adversas que podem atrapalhar o processo de desenvolvimento e a qualidade do produto a ser desenvolvido**.
 
-- O paradigma, representado pela espiral, define quatro atividades principais representadas pelos quadrantes: **Planejamento, Análise dos Riscos, 
+- O paradigma, representado pela espiral, define quatro atividades principais representadas pelos quadrantes: **Planejamento, Análise dos Riscos, Engenharia e Avaliação do Cliente**
+
+- Versões progressivamente mais completas do software são construídas.
+
+- O produto e desenvolvido em uma serie de iterações.
+
+- Cada nova iteração corresponde a uma volta na espiral.
+
+- Isso permite construir produtos com prazos curtos, com novas características e **recursos** que são **agregados** na medida em que a experiência descobre suas necessidades.
+
+- As atividades de manutenção são usadas para **identificar problemas**, seus registros fornecem dados para definir os **requisitos das próximas liberações**.
+
+- O principal problema do ciclo de vida em espiral é que ele **requer gestão muito sofisticada** para ser previsível e confiável.
+
+## O Modelo "Prototipagem Evolutiva"
+
+- É uma variante do modelo em espiral.
+
+- A espiral é usada não para desenvolver o produto completo, mas para **construir uma série de versões provisórias** que são chamadas de protótipos.
+
+- Em vez de ter as atividades de **especificação, desenvolvimento e validação** em separado, todo esse trabalho é realizado concorrentemente com um rápido feedback por meio dessas atividades.
+
+- Os protótipos cobrem cada vez mais requisitos, até que se atinja o produto desejado.
+
+- A prototipagem evolutiva permite que os requisitos sejam definidos progressivamente, e apresenta alta flexibilidade e visibilidade para os clientes.
+
+- Requer gestão sofisticada e o desenho deve ser de excelente qualidade, para que a estrutura do produto não se degenere ao longo dos protótipos.
+
+## Técnicas de Quarta Geração
+
+- Abrange um amplo conjunto de ferramentas de software que tem uma coisa em comum: cada uma delas possibilita que o desenvolvedor especifique alguma característica do software num nível elevado.
+
+- O ambiente de desenvolvimento inclui as seguintes ferramentas: Linguagens para consulta de banco de dados, geração de relatórios, manipulação de dados, interação e definição de interfaces, geração de códigos e etc.
+
+![técnicas de quarta geração]()
+
+### Atividades
+
+#### Obtenção dos Requisitos
+
+- Cliente descreve os requisitos.
+
+- Requisitos são traduzidos para protótipo.
+
+#### Cliente pode estar inseguro
+
+- Cliente pode ser incapaz de especificar as informações corretamente.
+
+- Linguagens de 4ª geração não são suficientemente sofisticadas.
+
+### Vantagens de Problemas
+
+#### Proponentes
+
+- Redução do tempo de desenvolvimento (Aumento da Produtividade).
+
+#### Oponentes
+
+- Ferramentas de 4ª geração não são mais fáceis de usar que as linguagens de programação.
+
+- Código resultante é ineficiente.
+
+- Manutenção questionável.
+
+### Combinando Paradigmas
+
+![Combinando Paradigmas]()
+
+## O Modelo "RUP"
+
+![Modelo RUP]()
+
+### Ciclo de vida RUP
+
+![Ciclo de vida RUP]()
+
+- Cada fase é então subdividida em iterações:
+
+![Iterações RUP]()
+
+- Um conjunto de artefatos (release) é gerado a cada iteração.
+
+#### Características do Modelo Iterativo
+
+- O desenvolvimento iterativo produz um executável.
+
+- Ciclos de desenvolvimento.
